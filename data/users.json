@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nom": "Paris", "nb_lycees": 38 },
+    { "id": 2, "nom": "Lyon", "nb_lycees": 26 },
+    { "id": 3, "nom": "Marseille", "nb_lycees": 29 }
+]
